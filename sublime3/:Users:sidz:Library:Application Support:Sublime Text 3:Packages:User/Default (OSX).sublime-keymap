@@ -1,0 +1,25 @@
+[
+  { "keys": ["control+p"], "command": "goto_symbol_in_project"},
+  { "keys": ["control+s"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+  { "keys": ["control+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+  { "keys": ["control+["], "command": "goto_definition"},
+  { "keys": ["control+]"], "command": "goto_reference"},
+  { "keys": ["control+="], "command": "jump_forward"},
+  { "keys": ["shift+super+d"], "command": "find_under_prev" },
+  { "keys": ["shift+super+a"], "command": "find_all_under" },
+  { "keys": ["control+'"], "command": "expand_selection", "args": {"to": "scope"} },
+  { // https://stackoverflow.com/a/50943678/2202107
+        "no_outside_adj": null,
+        "keys": ["super+'"],
+        "command": "bh_key",
+        "args":
+        {
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect"
+            }
+        }
+  }
+]

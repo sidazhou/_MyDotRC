@@ -1,0 +1,6 @@
+-- http://hadooptutorial.info/hive-interactive-shell-commands/ ;
+-- http://hadoopsie.com/example-hiverc-file/ ;
+-- need to be in $HIVE_HOME/conf;
+
+SET hive.cli.print.current.db=true;
+SET hive.cli.print.header=true;

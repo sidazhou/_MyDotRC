@@ -1,0 +1,8 @@
+{
+  "show_errors": false,
+  "progress_style": "ColorSublime",
+  "ignore_list": [
+    "/Users/sidz/Documents/weibo/weidl/*",
+    "$project_base_path/some/project/path/*"
+  ]
+}

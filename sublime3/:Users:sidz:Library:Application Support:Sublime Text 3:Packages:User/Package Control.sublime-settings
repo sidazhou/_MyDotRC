@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"All Autocomplete",
+		"Babel",
+		"Babel Snippets",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"CMake",
+		"Color Highlighter",
+		"ColorPicker",
+		"Column Select",
+		"Compare Side-By-Side",
+		"Dockerfile Syntax Highlighting",
+		"EasyClangComplete",
+		"Emmet",
+		"ERB Snippets",
+		"Expand Tabs on Save",
+		"GitGutter",
+		"HTML5",
+		"Javascript Beautify",
+		"jQuery",
+		"Package Control",
+		"Pretty JSON",
+		"Print to HTML",
+		"ReactJS",
+		"RSpec",
+		"rspec-snippets",
+		"Ruby Slim",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby"
+	]
+}

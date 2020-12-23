@@ -1,0 +1,7 @@
+{
+  "run_on_save": false,
+  "translate_tabs_to_spaces": true,
+  "tab_size": 2,
+  "file_patterns": [ "\\.rb", "\\.rake", "Rakefile", "Gemfile" ], // "\\.html\\.erb",
+  "html_erb_patterns": ["\\.htmlXXX\\.erbXXX"] // disable .html.erb
+}

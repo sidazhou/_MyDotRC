@@ -1,0 +1,7 @@
+{
+    "check_for_rvm": true,
+"run_ruby_unit_command": "-Itest {relative_path}",
+
+"run_single_ruby_unit_command": "-Itest {relative_path} -n '{test_name}'",
+
+}
